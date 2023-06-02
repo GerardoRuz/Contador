@@ -1,0 +1,36 @@
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #e70b0b;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #FF8C00;
+}
+
+button:active {
+  background-color: #FFEB3B;
+}
+
+.Contador {
+  background-color: aquamarine;
+  text-align: center;
+  margin: 0 auto;
+  border: 1px solid black;
+  padding: 10px;
+}
